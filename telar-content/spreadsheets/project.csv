@@ -1,5 +1,4 @@
 order,story_id,title,subtitle,byline,private,show_sections
 orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
-1,blank_template,replace me with your title,,,,
-2,plantilla_en_blanco,reemplázame con tu título,,,,
-3,the-coronado-trail,The Coronado Trail,Experiment for 192R,By Dylan Loring,,
+0,plantilla_en_blanco,Halloween Crackdowns: How 1990s Halloween Molded the Modern UCSB Party Police,A Public UCSB Historia,By Dylan Loring,,
+1,the-coronado-trail,The Coronado Trail,Experiment for 192R,By Dylan Loring,,
