@@ -1,5 +1,18 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,telar-png-1,0.5121336311419881,0.6016478037604556,3.0375,,Title for this portion???,History of Halloween in IV,Testing what this will look like...,,,,,,,
-2,chatgpt-image-jan-27-2026-043341-pm,0.5,0.5,1,,Ai lol,,"oooh testing
-",,,,,,,
+1,telar-png-1,0.4998367689303264,0.6115606499399684,2.2888183593750004,,Introduction,"Why are major events in Isla Vista today so heavily policed? 
+
+In 2026, UCSB’s long-standing unsanctioned street festival, Deltopia, was effectively replaced by the city-sponsored “Soltopia” after massive law enforcement efforts and strict new ordinances dismantled the original celebration. 
+
+Yet this aggressive approach to student festivities did not begin with Deltopia — it originated decades earlier with Isla Vista’s infamous Halloween celebrations of the 1990s.",,Learn more,plantilla_en_blanco-learn-more.md,Go deeper,plantilla_en_blanco-go-deeper.md,,,
+2,img0438,0.5,0.5,1,,The Start of it All,"At the beginning of the 1990s, Isla Vista’s party culture was thriving. Students freely filled the streets with massive gatherings and celebrations, creating a lively community atmosphere that was usually peaceful — except on Halloween, which had become notorious for chaos, violence, and heavy police intervention.","
+",Learn more,plantilla_en_blanco-step2-layer1.md,Go deeper,plantilla_en_blanco-step2-layer2.md,,,
+3,,0.5,0.5,1,,Chaos Insues,,,,,,,,,
+4,,0.5,0.5,1,,The Turning Point,,,,,,,,,
+5,,0.5,0.5,1,,Student Backlash,,,,,,,,,
+6,,0.5,0.5,1,,Tensions Between Sides,,,,,,,,,
+7,,0.5,0.5,1,,Doubling Down,,,,,,,,,
+8,,0.5,0.5,1,,A Different Path,,,,,,,,,
+9,,0.5,0.5,1,,Closing Thoughts,,,,,,,,,
+10,,0.5,0.5,1,,Sources,,,,,,,,,
+11,,0.5,0.5,1,,Thank You,,,,,,,,,
