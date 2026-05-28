@@ -18,10 +18,10 @@ Over time, these efforts contributed to the development of smaller, organized ev
 
 One early example was the "Spooktacular" event in 2000, which, while not widely attended, represented an institutional attempt to shift Halloween culture toward safer and more controlled programming. 
 
-Similarly, recurring "Trick or Treat" activities hosted at Anisq'Oyo Park emerged as community-centered alternatives that emphasized family-friendly participation and reduced risk.
+Similarly, recurring "Trick or Treat" activities hosted at Anisq'Oyo Park emerged as community-centered alternatives that emphasized family, friends, and festivity participation at a much reduced risk.
 
 Although these events never fully replaced the scale or cultural significance of earlier Halloween celebrations, they signaled an important transformation in Isla Vista's seasonal traditions. 
 
-The rise of alternative programming reflected both the lasting influence of decades of intensified policing and the gradual redefinition of Halloween from an uncontrolled street festival into a managed, community-oriented set of activities. 
+The rise of alternative programming reflected both the lasting influence of decades of intensified policing and the gradual redefinition of Halloween from an uncontrolled street festival into a managed, community oriented set of activities. 
 
 This shift would later provide a model for reimagined student celebrations such as Soltopia in 2026, illustrating the long-term evolution of Isla Vista's approach to public festivity.

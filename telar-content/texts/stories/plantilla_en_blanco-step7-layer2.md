@@ -2,7 +2,7 @@
 title: "Go deeper"
 ---
 
-The years following the introduction of the Five-Year Plan demonstrated both the effectiveness and the social consequences of aggressive policing in Isla Vista. 
+The years following the introduction of the Five Year Plan demonstrated both the effectiveness and the social consequences of aggressive policing in Isla Vista. 
 
 Throughout 1994 and 1995, Halloween celebrations became noticeably smaller and more controlled than they had been during the early 1990s. 
 
@@ -12,11 +12,11 @@ In many ways, the crackdown had achieved its intended purpose: Isla Vista was no
 
 Yet while public safety conditions improved, student resentment toward law enforcement steadily increased. 
 
-Daily Nexus reporting from the mid-1990s shows a clear transformation in the concerns dominating student discussions. 
+Daily Nexus reporting from the mid 1990s shows a clear transformation in the concerns dominating student discussions. 
 
 Earlier editorials had warned students about dangerous crowds, assaults, and violent behavior during Halloween weekend. 
 
-After the implementation of the Five-Year Plan, however, criticism increasingly focused on the police themselves. 
+After the implementation of the Five Year Plan, however, criticism increasingly focused on the police themselves. 
 
 Students complained that Halloween had become excessively restricted, overregulated, and stripped of the freedom and spontaneity that once defined Isla Vista culture.
 

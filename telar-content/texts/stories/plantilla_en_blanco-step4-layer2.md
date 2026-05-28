@@ -12,7 +12,9 @@ As the night escalated, the consequences of overcrowding became severe.
 
 Reports documented widespread injuries, public intoxication, violence, and repeated disturbances throughout Del Playa and neighboring streets. 
 
-More than one thousand arrests were made in a single night — an extraordinary number that demonstrated how dramatically Halloween had spiraled beyond the control of both students and local authorities. 
+More than one thousand arrests were made in a single night.
+
+This extraordinary number demonstrates how dramatically Halloween had spiraled beyond the control of both students and local authorities. 
 
 Several individuals reportedly left parties with injuries, while two attendees were placed in critical condition, further intensifying fears surrounding the event.
 
@@ -24,4 +26,4 @@ Santa Barbara Sheriff's Department officer Tim Gracey publicly praised law enfor
 
 This moment reflected a major shift in policing philosophy: Halloween was no longer treated as a temporary disturbance, but as a recurring public safety emergency requiring large-scale preventative enforcement. 
 
-The events of 1992 convinced authorities that significantly stronger crowd-control measures would be necessary moving forward, paving the way for the intensified policing strategies and restrictions that would emerge in the following years.
+The events of 1992 convinced authorities that significantly stronger crowd control measures would be necessary moving forward, paving the way for the intensified policing strategies and restrictions that would emerge in the following years.

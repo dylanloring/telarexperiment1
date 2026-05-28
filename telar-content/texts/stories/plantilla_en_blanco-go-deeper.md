@@ -2,14 +2,14 @@
 title: "Go deeper"
 ---
 
-The policing model used against Deltopia reflects a much longer history within Isla Vista. 
+The late 1980s laid the groundwork for the intense Halloween crackdowns that would define Isla Vista during the 1990s. 
 
-During the 1990s, Halloween celebrations near UCSB transformed from localized student parties into some of the largest and most chaotic college gatherings in California. 
+Archived Daily Nexus articles from this time reveal a growing anxiety within the UCSB and Santa Barbara communities over the increasingly unregulated nature of Halloween festivities. 
 
-Tens of thousands of visitors flooded Del Playa Drive each October, overwhelming emergency services and producing rising levels of violence, injuries, alcohol-related arrests, and clashes with law enforcement. 
+Coverage from 1986 warned female students about elevated rates of sexual assault during Halloween weekend and advised women to remain especially cautious while attending celebrations. 
 
-In response, Santa Barbara officials and UCSB administrators developed increasingly aggressive forms of crowd control, including barricades, noise ordinances, checkpoints, surveillance, and massive police deployments. 
+In 1987, a Daily Nexus article titled "Taking Back Halloween," written by student Lisa Frankenberg, described widespread experiences of harassment against women, including groping, aggressive physical behavior, and in extreme cases, sexual assault. 
+![IMG_0443](https://dylanloring.github.io/telarexperiment1/iiif/objects/img0443/img0443.jpg)
+While Frankenberg called for women to reclaim the holiday from such behavior, the article also reflected a broader shift in public perception: Halloween was no longer viewed solely as a student tradition, but as a growing public safety crisis. 
 
-Over time, these emergency measures evolved into a permanent policing culture that continues to shape student life today. 
-
-The modern regulation of Deltopia, culminating in the replacement of the festival with Soltopia in 2026, represents the lasting legacy of Isla Vista's Halloween crackdowns: greater police control may reduce chaos and crime, but it also fundamentally transforms the traditions and freedoms that once defined student culture at UCSB.
+These reports helped legitimize increasing police involvement in Isla Vista and contributed to the belief among local officials that stronger forms of enforcement and crowd control would eventually be necessary.

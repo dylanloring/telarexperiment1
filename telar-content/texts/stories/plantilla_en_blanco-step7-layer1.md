@@ -8,4 +8,4 @@ In 1994, roughly 13,000 people still gathered throughout Del Playa, yet reports 
 
 By 1995, the atmosphere had become so heavily controlled that some students joked there were "more police officers than students" in Isla Vista. 
 
-As safety concerns declined, public discussion increasingly shifted away from fears of riots and assaults toward criticism of overpolicing and excessive regulation of student festivities.
+As safety concerns declined, public discussion increasingly shifted away from fears of riots and assaults, instead citing criticism of overpolicing and excessive regulation of student festivities.
