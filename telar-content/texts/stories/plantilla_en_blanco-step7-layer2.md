@@ -27,7 +27,7 @@ Rather than publishing warnings about unsafe partying conditions, the newspaper 
 By 1996, one article humorously advised students on "How Not to Get Caught in the Halloween Cop Crunch," reflecting how interactions with law enforcement had become a greater concern than the dangers of the crowds themselves. 
 
 The following year, a 1997 Daily Nexus column informed students about their legal rights during police encounters, explaining how to remain silent, comply with searches, and navigate the booking process after an arrest. 
-
+![arrests](https://dylanloring.github.io/telarexperiment1/iiif/objects/img0458-2/img0458-2.jpg)
 The inclusion of step-by-step instructions for dealing with jail demonstrated how normalized the expectation of police confrontation had become within Isla Vista's student culture.
 
 These developments reveal the lasting cultural impact of the Five-Year Plan. 
